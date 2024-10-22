@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="logo_bmw.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="397.16269"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="paint0_linear_109_812"
+       x1="6.2767301"
+       y1="6.2767"
+       x2="25.183201"
+       y2="26.2635"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.0273393"
+         stop-color="#949AA0"
+         id="stop33760" />
+      <stop
+         offset="0.403335"
+         stop-color="#1A1D1E"
+         id="stop33762" />
+      <stop
+         offset="1"
+         stop-color="#040606"
+         id="stop33764" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_109_812"
+       x1="16.0002"
+       y1="7.6323199"
+       x2="16.0002"
+       y2="24.367201"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7CD1F4"
+         id="stop33767" />
+      <stop
+         offset="1"
+         stop-color="#1274B9"
+         id="stop33769" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:none"
+       id="g33791"
+       transform="matrix(2.3214286,0,0,2.1428495,70.357143,115.7143)">
+      <path
+         d="M 16,2 C 8.26811,2 2,8.26811 2,16 2,23.7319 8.26811,30.0001 16,30.0001 23.7319,30.0001 30,23.7319 30,16 30,8.26811 23.7319,2 16,2 Z"
+         fill="url(#paint0_linear_109_812)"
+         id="path33748"
+         style="fill:url(#paint0_linear_109_812)" />
+      <path
+         d="m 15.9999,24.9426 c -4.9389,0 -8.94277,-4.0038 -8.94277,-8.9427 0,-4.9389 4.00387,-8.94277 8.94277,-8.94277 4.9388,0 8.9427,4.00387 8.9427,8.94277 0,4.9389 -4.0038,8.9427 -8.9427,8.9427 z"
+         fill="#ffffff"
+         id="path33750" />
+      <path
+         d="M 7.63281,15.9997 H 16.0002 V 7.63232 c -4.6211,0 -8.36739,3.74638 -8.36739,8.36738 z m 8.36739,0 v 8.3675 c 4.6212,0 8.3674,-3.7463 8.3674,-8.3675 z"
+         fill="url(#paint1_linear_109_812)"
+         id="path33752"
+         style="fill:url(#paint1_linear_109_812)" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 8.24351,7.35914 C 8.67368,7.09244 9.13189,7.17928 9.42833,7.4674 9.88381,7.91014 9.81681,8.42205 9.38354,8.9384 L 7.48728,11.1982 4.66064,8.82632 6.45878,6.68344 C 6.83095,6.23992 7.3513,5.88572 7.84573,6.3006 7.85487,6.30827 7.8637,6.31563 7.87225,6.32277 8.00664,6.43488 8.07425,6.49128 8.24848,6.809 8.29211,6.9289 8.32567,7.14621 8.24351,7.35914 Z M 7.44147,7.22333 C 7.2596,7.07077 6.97682,7.06464 6.8517,7.2138 L 5.77167,8.50087 6.43979,9.06151 7.50761,7.78895 C 7.6419,7.62899 7.64142,7.39111 7.44147,7.22333 Z M 7.62576,10.0567 8.7516,8.71502 C 8.90112,8.53686 8.87952,8.25923 8.66136,8.07628 8.46864,7.9145 8.18288,7.95898 8.05472,8.11172 l -1.13494,1.3526 z"
+         fill="#ffffff"
+         id="path33754" />
+      <path
+         d="m 17.4393,3.87616 -0.9707,2.57299 h -0.806 L 14.6918,3.87616 V 6.44915 H 13.9541 V 2.76416 h 1.1085 l 1.003,2.62475 1.003,-2.62475 h 1.1085 v 3.68499 h -0.7378 z"
+         fill="#ffffff"
+         id="path33756" />
+      <path
+         d="m 24.9987,9.94876 1.389,-1.96653 -0.6117,-0.75538 -2.2123,0.9498 1.4476,-1.89377 -0.5701,-0.7041 -2.3118,2.97368 0.6757,0.8277 2.1839,-0.8987 0.0078,0.00977 -1.3331,1.94927 0.6692,0.833 3.3893,-1.64296 -0.5702,-0.7041 z"
+         fill="#ffffff"
+         id="path33758" />
+    </g>
+  </g>
+</svg>

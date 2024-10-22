@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="logo_mcdonalds.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="397.16269"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 117.7152,124.28633 c 5.12732,0 9.28454,24.94372 9.28454,55.71367 h 7.42928 c 0,-33.13767 -7.484,-60 -16.7136,-60 -5.25147,0 -9.9367,8.07313 -13.00026,20.69743 C 101.65226,128.07313 96.965503,120 91.714462,120 82.484877,120 75,146.86233 75,180 h 7.430161 c 0,-30.76995 4.157636,-55.71367 9.284301,-55.71367 5.128208,0 9.286938,23.02511 9.286938,51.42958 h 7.42753 c 2.2e-4,-28.40447 4.15763,-51.42958 9.28627,-51.42958 m 20.43242,51.42958 c 1.00771,0 1.85238,0.9207 1.85238,2.13188 0,1.23053 -0.84467,2.15169 -1.85238,2.15169 -1.01122,0 -1.86293,-0.92168 -1.86293,-2.15169 0,-1.21118 0.85171,-2.13188 1.86293,-2.13188 m 0,3.97093 c 0.85345,0 1.51618,-0.79131 1.51618,-1.83824 0,-1.02868 -0.66317,-1.81901 -1.51618,-1.81901 -0.864,0 -1.52607,0.79033 -1.52607,1.81901 -2.2e-4,1.04666 0.66207,1.83824 1.52607,1.83824 z m -0.72227,-3.08295 h 0.83696 c 0.51222,0 0.75371,0.23537 0.75371,0.71501 0,0.45237 -0.24478,0.64175 -0.5656,0.68103 l 0.61613,1.10732 h -0.36169 l -0.58714,-1.07713 h -0.35511 v 1.07713 h -0.33686 z m 0.33705,1.11209 h 0.35094 c 0.29557,0 0.5678,-0.0171 0.5678,-0.41391 0,-0.33295 -0.24696,-0.3852 -0.47397,-0.3852 h -0.44432 z"
+       fill="#ffc300"
+       id="path33604"
+       style="stroke-width:0.236042" />
+  </g>
+</svg>
